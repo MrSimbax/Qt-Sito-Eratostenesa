@@ -1,6 +1,6 @@
 #include "WidgetWybor.h"
-#include <QHBoxLayout>
-#include <QLabel>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLabel>
 
 WidgetWybor::WidgetWybor(QSitoEratostenesa *QSito, QWidget *parent) :
     QWidget(parent)

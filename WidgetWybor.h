@@ -1,10 +1,10 @@
 #ifndef WIDGETWYBOR_H
 #define WIDGETWYBOR_H
 
-#include <QWidget>
+#include <QtWidgets/QWidget>
 #include "QSitoEratostenesa.h"
 
-#include <QSpinBox>
+#include <QtWidgets/QSpinBox>
 
 class WidgetWybor : public QWidget
 {

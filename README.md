@@ -6,7 +6,11 @@ GUI for Sieve of Eratosthenes algorithm made in Qt for educational purposes. It'
 
 # Kompilacja
 
-Otworzyć plik `*.pro` w `Qt Creator`. Wersja Qt: 4.
+Otworzyć plik `*.pro` w `Qt Creator`. Wersja Qt: 5.
+
+# Screenshot
+
+![](http://i.imgur.com/XfYVDc7.png)
 
 # Wideo
 

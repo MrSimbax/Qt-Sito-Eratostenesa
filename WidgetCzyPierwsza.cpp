@@ -1,10 +1,10 @@
 #include "WidgetCzyPierwsza.h"
 
 #include <QFont>
-#include <QSpinBox>
-#include <QVBoxLayout>
-#include <QWidget>
-#include <QPushButton>
+#include <QtWidgets/QSpinBox>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QPushButton>
 
 #include "QSitoEratostenesa.h"
 #include "WidgetWybor.h"

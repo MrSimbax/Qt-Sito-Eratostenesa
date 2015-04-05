@@ -1,9 +1,9 @@
 #ifndef WIDGET_H
 #define WIDGET_H
 
-#include <QWidget>
-#include <QLabel>
-#include <QTextEdit>
+#include <QtWidgets/QWidget>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QTextEdit>
 #include "WidgetWybor.h"
 
 // Klasa obiektu QWidget, ktora odpowiada

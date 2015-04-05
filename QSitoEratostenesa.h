@@ -2,7 +2,7 @@
 #define QSITOERATOSTENESA_H
 
 #include "SitoEratostenesa.h"
-#include <QWidget>
+#include <QtWidgets/QWidget>
 
 // qsitoeratostenesa.h
 // Klasa powstala aby dodac dodatkowe obiekty
